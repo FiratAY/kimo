@@ -1,0 +1,111 @@
+@media (max-width: 768px){
+    .icerik{
+        padding: 0px;
+        margin: 0px;
+    }
+    .arama{
+        width: 100%;
+    }
+}
+.navbar{
+    font-family: 'Iceland', cursive;
+    font-size: 20px;
+}
+.arama{
+    float: right;
+}
+.ustkisim{
+    float: right;
+    top: 15px;
+    right: 5px;
+    z-index: 21;
+}
+.ileti{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.sag-oto{
+    height: auto;
+}
+.sol-sabit{
+    padding-top: 5px;
+    padding-left: 15px;
+}
+.icerik {
+    margin: 10px 10px 0 10px;
+    background-color: rgba(234, 234, 221, 0.55);
+    height: 480px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.bilgi{
+    background-color: #1d63c9;
+    margin:5px ;
+}
+.resim{
+    padding: 10px;
+    max-height: 270px;
+    max-width: 270px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.hakkinda{
+    background-color: rgba(245, 244, 238, 0.61);
+    margin-right: auto;
+    margin-left: auto;
+    max-height: 280px;
+    max-width: 270px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+
+}
+.text-center{
+    font-family:  Marck Script;
+}
+.hakkinda h5{
+    font-family:  Marck Script;
+}
+.sosyalmedya {
+    padding:7px;
+    max-height: 75px;
+    max-width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.mesaj{
+    padding: 10px;
+    border-top:groove 2px #2aabd2;
+    font-family: Marck Script;
+}
+.ustmesaj{
+    border-top: none;
+}
+.resim2{
+
+    max-height: 130px;
+    max-width: 130px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.ileti{
+    padding: 5px;
+}
+.mar-top0{
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+input[type=text]{
+    width: 90%;
+    font-family:  Marck Script;
+}
+input[type=submit]{
+    width: 44%;
+    font-family:  Marck Script;
+}
+input[type=button]{
+    width: 44%;
+    font-family:  Marck Script;
+}
